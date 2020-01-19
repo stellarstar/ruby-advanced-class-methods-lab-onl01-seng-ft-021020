@@ -1,6 +1,6 @@
 
-class self.create 
-  def create 
+class song
+  def self.create 
   attr_accessor :name, :artist_name
 end 
 
