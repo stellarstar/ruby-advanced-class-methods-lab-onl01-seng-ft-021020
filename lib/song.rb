@@ -1,6 +1,7 @@
 
 class Song
   attr_accessor :name, :artist_name
+  @@all = array ()
   def self.create 
 end 
 
